@@ -7,8 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CoffeShopAuthApplication {
 
     public static void main(String[] args) {
-        System.out.println("test bang");
         SpringApplication.run(CoffeShopAuthApplication.class, args);
     }
-
 }
